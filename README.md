@@ -1,6 +1,6 @@
 # Data Engineering Test
 
-## Judgment Criteria
+## Criteria
 
 - Quality of the code
 - Testing strategies
@@ -18,3 +18,7 @@ Using the small CSV datafile write a simple python program that processes the da
 - Test the program against the larger CSV file
 
 Following on from this discuss how you would implement into a data bricks cluster or Azure Data Factory and what you would to productionize the processor.
+
+[Small datafile](https://raw.githubusercontent.com/BuildCircle/python-data-test/main/src/example_data_small.csv)
+
+[Large datafile](https://raw.githubusercontent.com/BuildCircle/python-data-test/main/src/example_data_large.csv)
