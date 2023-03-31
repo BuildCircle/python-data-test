@@ -12,7 +12,7 @@ Using the small CSV datafile. Write a simple python program that processes the d
 - Produce a count of the number of people sucsessfully/unsucsessfully processed people
 - Test the program against the larger CSV file
 
-Following on from this discuss how you would implement into a data bricks cluster or Azure Data Factory and what you would to productionize the processor.
+Following on from this discuss how you would implement this in a data bricks cluster or Azure Data Factory and what you would do to productionize the processor.
 
 [Small datafile](https://raw.githubusercontent.com/BuildCircle/python-data-test/main/src/example_data_small.csv)
 
