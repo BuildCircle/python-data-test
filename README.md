@@ -19,7 +19,7 @@ The output should look something like:
 | 1234 | xxxx       | xxxx      | xxx xxx | 31  |
 |      |            |           |         |     |
 
-Following on from this discuss how you would implement this in a data bricks cluster or Azure Data Factory and what you would do to productionize the processor.
+Following on from this discuss how you would implement this in a cloud environment or data lake and what you would productionize the code.
 
 [Small datafile](https://raw.githubusercontent.com/BuildCircle/python-data-test/main/src/example_data_small.csv)
 
